@@ -8,6 +8,8 @@
 
 💌 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
 
+![computer-illustration](https://user-images.githubusercontent.com/31896900/142080821-169bfd3e-2307-4624-aa65-b4e3bfd794f2.png)
+
 <!--
 **olserra/olserra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
