@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+🌎 Olá, meu nome é Otavio Serra. Sou Desenvolvedor Full Stack.
+
+🦄 Habilidades: HTML, CSS, JavaScript, ReactJS, Next.js, Styled Components, Rails e Python.
+
+💼 Ferramentas: VSCode, Figma, Trello, Vercel, Git e GitHub.
+
+💌 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
+
 <!--
 **olserra/olserra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
