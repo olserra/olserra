@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄  Skills: HTML, CSS, JavaScript, ReactJS, Next.js, NodeJS, Rails e Python.
+  🦄  Skills: HTML, CSS, JavaScript, React Native, ReactJS, Next.js, NodeJS, Rails e Python.
 </p>
 
 <p align="left">
