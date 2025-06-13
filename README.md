@@ -1,13 +1,1 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
-
-<p align="left"> 
-  🌎  Hello, my name is Otavio Serra, and I am a full stack developer, based in Lisbon.
-</p>
-
-<p align="left">
-  🦄  Skills: HTML, CSS, JavaScript, TypeScript, React Native, ReactJS, NextJS, NodeJS, Java, Ruby on Rails and Python.
-</p>
-
-<p align="left">
-💼  Tools: VSCode, Figma, Trello, JIRA, Vercel, Heroku, AWS, GCP, Docker, Kubernetes, Ansible, Terraform and Git.
-</p>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador"> <p align="left"> 👋 Hello, I'm <strong>Otavio Serra</strong> — a Solutions Architect & AI Engineer based in Lisbon, with a passion for building intelligent systems, scalable architectures, and impactful automations. </p> <p align="left"> 🧠 Working on the intersection of <strong>LLMs</strong>, <strong>AI infrastructure</strong>, and <strong>enterprise automation</strong>. Obsessed with quality, performance, and human-centered solutions. </p> <p align="left"> ⚙️ <strong>Core Stack:</strong> Python, TypeScript, Next.js, FastAPI, LangChain, Docker, Kubernetes, AWS, GCP, GitLab CI/CD. </p> <p align="left"> 🧰 <strong>AI/ML Tools:</strong> PyTorch, HuggingFace, OpenAI, Vertex AI, Transformers, Weaviate, ChromaDB, Pinecone, Vector Search, LlamaIndex. </p> <p align="left"> 🛠️ <strong>DevOps & Infra:</strong> Terraform, Helm, ArgoCD, GitOps, Serverless, Event-Driven Architectures, n8n, Airflow. </p> <p align="left"> 🧩 <strong>Interests:</strong> Multi-agent systems, Retrieval-Augmented Generation (RAG), MLOps, AI-powered workflows, Edge AI, and security tech (drones, cameras, fraud detection). </p> <p align="left"> 🌱 Currently exploring advanced AI integrations in enterprise environments, custom RAG pipelines, and real-time automation using LLMs and vector databases. </p> <p align="left"> 🔗 Let's build something extraordinary with AI. </p>
